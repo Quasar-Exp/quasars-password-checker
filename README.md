@@ -12,7 +12,7 @@ A Python-based password strength checker that analyzes how secure a password is.
 
 ## Requirements
 - Python installed
-- rockyou.txt in the same folder as the script
+- rockyou.txt seprate installation, place in same folder as the script
 - common.txt in the same folder as the script
 
 ## How to Run
