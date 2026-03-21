@@ -19,5 +19,5 @@ A Python-based password strength checker that analyzes how secure a password is.
 1. Download or clone this repository
 2. Place all files in the same folder
 3. Open Command Prompt in that folder
-4. Run: python PasswordChecker.py
+4. Run: PasswordChecker.py
 
